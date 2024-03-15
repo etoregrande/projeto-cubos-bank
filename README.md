@@ -1,5 +1,5 @@
 # Cubos Bank
-Este projeto é uma implementação backend de uma API REST bancária para o curso de formação Full Stack da [https://cubos.academy](Cubos Academy)
+Este projeto é uma implementação backend de uma API REST bancária para o curso de formação Full Stack da [Cubos Academy]([Cubos Academy](https://cubos.academy))
 
 O projeto está estruturado com 9 endpoints para o gerenciameto de contas e transações bancárias 
 
@@ -7,7 +7,7 @@ O projeto está estruturado com 9 endpoints para o gerenciameto de contas e tran
 
 ## Configuração
 1. Clone o repositório
-2. Realize a instalação do [https://www.npmjs.com/package/nodemon](nodemon)
+2. Realize a instalação do [nodemon]([https://www.google.com](https://www.npmjs.com/package/nodemon))
 3. Execute o comando "npm run dev"
 
 <br>
