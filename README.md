@@ -1,5 +1,5 @@
 # Cubos Bank
-Este projeto é uma implementação backend de uma API REST bancária para o curso de formação Full Stack da [Cubos Academy]([Cubos Academy](https://cubos.academy))
+Este projeto é uma implementação backend de uma API REST bancária para o curso de formação Full Stack da [Cubos Academy](https://cubos.academy)
 
 O projeto está estruturado com 9 endpoints para o gerenciameto de contas e transações bancárias 
 
