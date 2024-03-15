@@ -6,9 +6,9 @@ O projeto está estruturado com 9 endpoints para o gerenciameto de contas e tran
 <br>
 
 ## Configuração
-1. Clone o repositório
-2. Realize a instalação do [nodemon](https://www.npmjs.com/package/nodemon)
-3. Execute o comando "npm run dev"
+1. Clone o repositório;
+2. Realize a instalação do [nodemon](https://www.npmjs.com/package/nodemon);
+3. Execute o comando "npm run dev".
 
 <br>
 
